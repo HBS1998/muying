@@ -1,0 +1,54 @@
+/* 轮播 */
+.lun{width: 100%;height: 345px;background-image: url(../img/yuyue/dabao_02.png);background-repeat: no-repeat;background-size: 100% 345px;}
+.lun-top{width: 1200px;height:45px ;margin: 0 auto;}
+.lun-top ul{display: flex;justify-content: space-between;}
+.lun-top li{float: left;font-size: 14px;color: #038dd8;font-weight: 600;margin-top: 20px;cursor: pointer;}
+.lun-top a:hover{color: orange;}
+/* 中间部分 */
+.m{width: 1200px;height: 1045px;margin: 0 auto;}
+.m-m{width: 1200px;height:970px ;background-image: url(../img/xinwen/yuanjiao_03.png);background-repeat: no-repeat;background-size: 1200px 970px;}
+.m-top{width: 1200px;height: 58px;display: flex;justify-content: space-between;}
+.m-top-1{width: 110px;height: 40px;margin-left: 21px;margin-top:17px ;}
+.m-top-2{width: 220px;height: 60px;}
+.m-top-2 span{font-size: 12px;color: #7c7b7b;line-height: 60px;}
+.m-top2{height: 112px;width: 1150px;border-bottom: #cbcbcb solid 1px;margin-left: 25px;}
+.m-top2-1{width: 185px;height: 44px;margin: 0 auto;margin-top: 40px;}
+.m-top2-sp1{font-size:18px ;display: block;color:#088cce ;}
+.m-top2-sp2{font-size:12px ;display: block;color: #7c7b7b;}
+.m-m1{width: 1200px;height: 435px;display: flex;justify-content: space-between;}
+.m-zuo{width: 400px;height: 436px;}
+.m-zuo-t{width:282px ;height: 256px;border: white solid 1px;margin-left: 21px;margin-top: 25px;background-image: url(../img/yuyue/dingzi_03.png);background-repeat: no-repeat;background-size: 282px 256px;}
+.m-zuo-t-1{width: 190px;height: 34px;margin-top: 34px;margin-left: 10px;}
+.m-zuo-t-1 span{display: block;font-size: 12px;color: #FFFFFF;}
+.m-zuo-t-1-sp2{margin-left: 25px;}
+.m-zuo-t-1-sp1{margin-left: 25px;margin-top: -20px;}
+.m-zuo-t-2{width: 259px;height: 38px;margin-top: 20px;margin-left: 10px;}
+.m-zuo-t-2 span{display: block;font-size: 12px;color: #FFFFFF;}
+.m-zuo-t-3{width: 253px;height: 55px;margin-top: 20px;margin-left: 10px;}
+.m-zuo-t-3 span{display: block;font-size: 12px;color: #FFFFFF;}
+.m-zuo-t-3-sp1{margin-left: 25px;}
+.m-zuo-b{width: 350px;height: 150px;margin-left: 20px;}
+.m-zuo-b p{font-size: 14px;color: #2fa2dc;}
+.m-zuo-b li{font-size:12px ;color: #545454;margin-top: 5px;}
+.m-r{height: 394px;width: 800px;}
+.m-r-1{width: 800px;height: 35px;margin-top: 50px;display: flex;justify-content: space-around;}
+.m-r-1-1{width: 260px;height: 35px;background-image: url(../img/yuyue/lansou_03.png);background-repeat: no-repeat;background-size: 240px 35px;}
+.m-r-1-1-sp1{font-size: 12px;color: #FFFFFF;margin-left: 18px;line-height: 35px;}
+.m-r-1-1-sp2{color: red;margin-left: 30px;}
+.m-r-1-1 input{width: 130px;height: 30px;border: #FFFFFF solid 0px;margin-left: 20px;}
+.m-r-2{height: 73px;width: 800px;display: flex;justify-content: space-around;}
+.m-r-2-1{width: 239px;height:50px ;margin-top: 25px;}
+.m-r-2-1 span{font-size: 12px;color: #2fa2dc;}
+.m-r-2-1 input{width:230px;}
+.m-r-2-2{width: 260px;height: 35px;background-image: url(../img/yuyue/lansou_03.png);background-repeat: no-repeat;background-size: 240px 35px;margin-top: 40px;}
+.m-r-2-2 input{width: 130px;height: 30px;border: #FFFFFF solid 0px;margin-left: 20px;}
+.m-r-3{width: 650px;height: 106px;background-image:url(../img/yuyue/liuyan_03.png);background-repeat: no-repeat;margin-left: 70px;margin-top: 24px;background-size: 650px 106px;}
+.m-r-3 input{width: 620px;height: 95px;border:#FFFFFF solid  0px;margin-left: 10px;margin-top: 5px;}
+.m-r-4{height: 52px;width: 650px;margin-left: 70px;display: flex;justify-content: space-between;}
+.m-r-4-1{width: 260px;height: 35px;background-image: url(../img/yuyue/lansou_03.png);background-repeat: no-repeat;background-size: 240px 35px;margin-top: 18px;}
+.m-r-4-1 input{width: 130px;height: 30px;border: #FFFFFF solid 0px;margin-left: 20px;}
+.m-r-4-2{width: 130px;height: 34px;background-image: url(../img/yuyue/julan_03.png);background-repeat: no-repeat;margin-top: 18px;}
+.m-r-4-2-ip1{border: #2fa2dc solid 0px;background-color: #2fa2dc;width: 40px;height: 20px;margin-left: 10px;margin-top: 5px;color: #FFFFFF;}
+.m-r-4-2-ip2{border: #2fa2dc solid 0px;background-color: #f39901;width: 40px;height: 20px;margin-left: 20px;margin-top: 5px;color: #FFFFFF;}
+.m-r-5{width: 57px;height: 21px;border-bottom:#b2b2b2 solid 1px ;margin-left: 670px;margin-top: 30px;}
+.m-r-5 span{font-size: 13.28px;color: #6e6e6e;}

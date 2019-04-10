@@ -1,0 +1,54 @@
+/* 轮播 */
+.lun{width: 100%;height: 345px;background-image: url(../img/xinwen/lun_02.png);background-repeat: no-repeat;background-size: 100% 345px;}
+.lun-top{width: 1200px;height:45px ;margin: 0 auto;}
+.lun-top ul{display: flex;justify-content: space-between;}
+.lun-top li{float: left;font-size: 14px;color: #038dd8;font-weight: 600;margin-top: 20px;cursor: pointer;}
+.lun-top a:hover{color: orange;}
+/* 中间部分 */
+.m{width: 1200px;height:1200px ;margin: 0 auto;display: flex;justify-content: space-between;}
+.m-le{width:270px ;height: 650px;background-image: url(../img/xinwen/yuanjiao_03.png);background-size: 270px 650px;}
+.m-r{width:920px ;height: 1165px;background-image: url(../img/xinwen/yuanjiao_03.png);background-repeat: no-repeat;background-size:920px 1165px;/* display: flex;justify-content: space-around; */}
+.m-le-1{width: 260px;height: 66px;}
+.m-le-2{width: 265px;height: 50px;margin-top: 7px;}
+.m-le-3{width: 265px;height:50px;border-bottom: #C3C3C3 dashed 1px;}
+.m-le-3 li{float: left;font-size: 14px;color: black;margin-top: 17px;}
+.m-le-3-li1{margin-left:36px;}
+.m-le-3-li2{margin-left: 83px;}
+.m-le-4{width: 230px;height: 60px;margin-top: 25px;margin-left:15px ;}
+.m-le-5{height: 240px;widows: 265px;}
+.m-le-5 input{width: 210px;height: 25px;}
+.m-le-5 select{width: 210px;height: 25px;}
+.m-le-5 li{font-size:12px ;color: #797979;margin-left: 20px;margin-top: 12px;}
+.m-le-6{width: 265px;height: 50px;}
+.m-le-6 span{font-size: 12px;color: #797979;border-bottom: solid #C3C3C3 1px;margin-left: 100px;}
+.m-le-6 img{margin-top: 35px;margin-left: 5px;}
+/* 右侧部分 */
+.m-r-t{width: 900px;height: 78px;border-bottom: #7B7C7C solid 1px;display: flex;justify-content: space-between;margin-left: 10px;}
+.m-r-t-1{width: 113px;height: 41px;margin-top: 20px;margin-left: 19px;}
+.m-r-t-2{width: 270px;height:21px;margin-top: 35px;}
+.m-r-t-2 span{font-size: 12px;color: #7b7c7c;}
+.m-r-2{width: 900px;height: 188px;border-bottom: #7B7C7C dashed 1px;margin-left: 10px;display: flex;justify-content: space-around;}
+.m-r-2-1{width: 350px;height: 188px;}
+.m-r-2-1 img{margin-top: 31px;}
+.m-r-2-2{width: 420px;height: 188px;}
+.m-r-2-2-sp1{font-size: 17.63px;color: #028acf;display: block;margin-top: 33px;}
+.m-r-2-2-sp2{font-size: 16px;color: #f98c23;display: block;margin-top: 16px;}
+.m-r-2-2-sp3{display: block;margin-top: -10px;}
+.m-r-2-2-sp4{display: block;font-size: 13px;color: #4a4a4a;margin-top: 15px;}
+.m-r-2-2-sp5{font-size: 13px;color: #4a4a4a;}
+.m-r-2-2-sp6{color: #919191;font-size: 12px;margin-left: 100px;}
+.m-r-3{width: 800px;height: 800px;margin-left: 50px;}
+.m-r-3-1{background-image: url(../img/xinwen/riqi_03.png);height: 72px;background-size: 800px 72px;background-repeat: no-repeat;margin-top: 24px;display: flex;justify-content: space-between;}
+.m-r-3-1-1{width: 85px;height:72px;}
+.m-r-3-1-1-sp1{display: block;font-size: 21px;color: #FFFFFF;margin-left: 25px;padding-top: 15px;}
+.m-r-3-1-1-sp2{display: block;font-size: 14px;color: #FFFFFF;margin-top: 5px;margin-left: 10px;}
+.m-r-3-2{width: 600px;height: 72px;}
+.m-r-3-2-sp1{font-size: 14px;color: #7b8f8e;display: block;margin-top: 20px;}
+.m-r-3-2-sp2{font-size: 12px;color: #8e8e8e;display: block;margin-top: 12px;}
+.m-r-3-1-li3{width: 75px;height: 72px;background-color:#2fa2dc ;}
+.m-r-3-2-li3-sp1{font-size: 14px;color:#008cd7 ;display: block;margin-top: 20px;}
+.m-b{width: 172px;height: 37px;margin-left: 350px;}
+.m-b ul{display: flex;justify-content: space-between;}
+.m-b li{float: left;}
+.m-b-li1 input{width: 57px;height: 36px;font-size: 12px;color: #868686;border: #FFFFFF 0px;}
+.m-b-li2 input{width: 37px;background-color:#008CD7 ;height: 36px;border: #FFFFFF 0px;color: #FFFFFF;}

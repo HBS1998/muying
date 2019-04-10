@@ -1,0 +1,23 @@
+/* 轮播 */
+.lun{width: 100%;height: 345px;background-image: url(../img/huanjing1/wanju_03.png);background-repeat: no-repeat;background-size: 100% 345px;}
+.lun-top{width: 1200px;height:45px ;margin: 0 auto;}
+.lun-top ul{display: flex;justify-content: space-between;}
+.lun-top li{float: left;font-size: 14px;color: #038dd8;font-weight: 600;margin-top: 20px;cursor: pointer;}
+.lun-top a:hover{color: orange;}
+/* 中间 */
+.m{width: 1200px;height: 1045px;margin: 0 auto;}
+.m-m{width: 1200px;height:970px ;background-image: url(../img/xinwen/yuanjiao_03.png);background-repeat: no-repeat;background-size: 1200px 970px;margin-top: 10px;}
+.m-t{width: 1150px;height: 84px;display: flex;justify-content: space-between;margin: 0 auto;}
+.m-t-1{width: 133px;height: 84px;margin-left: 20px;margin-top: 16px;}
+.m-t-2{width: 220px;height: 84px;}
+.m-t-2 span{font-size: 12px;color: #7c7b7b;line-height: 84px;}
+.m-c{width: 1150px;height: 756px;margin: 0 auto;}
+.m-c-1{width: 1150px;height: 253px;}
+.m-c-1-1{width: 221px;height: 238px;background-color: #e5e5e5;}
+.m-c-1 ul{display: flex;justify-content: space-between;}
+.m-c-1-1 span{margin: 0 auto;display: block;height: 21px;color: #262626;font-size: 13px;width: 40px;margin-top: 17px;}
+.m-b{width: 172px;height: 37px;margin: 0 auto;margin-top: 46px;}
+.m-b ul{display: flex;justify-content: space-between;}
+.m-b li{float: left;}
+.m-b-li1 input{width: 57px;height: 36px;font-size: 12px;color: #868686;border: #FFFFFF 0px;}
+.m-b-li2 input{width: 37px;background-color:#008CD7 ;height: 36px;border: #FFFFFF 0px;color: #FFFFFF;}
